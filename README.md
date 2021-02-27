@@ -9,5 +9,14 @@ Refer to https://www.instructables.com/How-to-Setup-Raspberry-Pi-Without-Monitor
      
      Step 4 - 7 -> Setting up of Secure Shell (SSH) protocol.
 
-2. Downloading of programme script. 
+2. Downloading and running of programme script. 
+    
+     Download the python script from this repo and place it at home.
+     
+     To run the programme you can either use the Python 3 (IDLE) or Thonny. 
+     
+     Refer to https://www.digikey.sg/en/maker/blogs/2018/how-to-run-python-programs-on-a-raspberry-pi#:~:text=Running%20Programs%20via%20Python%20IDE&text=To%20open%20this%2C%20click%20the,pressing%20F5%20on%20the%20keyboard. 
+    
+     
+     
   
