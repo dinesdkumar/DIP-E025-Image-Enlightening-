@@ -16,6 +16,11 @@ Refer to https://www.instructables.com/How-to-Setup-Raspberry-Pi-Without-Monitor
      To run the programme you can either use the Python 3 (IDLE) or Thonny. 
      
      Refer to https://www.digikey.sg/en/maker/blogs/2018/how-to-run-python-programs-on-a-raspberry-pi#:~:text=Running%20Programs%20via%20Python%20IDE&text=To%20open%20this%2C%20click%20the,pressing%20F5%20on%20the%20keyboard. 
+     
+ # Data Collection Team
+ 
+ 1. Its advisable to use https://www.adobe.com/sea/photoshop/online/crop-image.html for your cropping 
+ 2.  Any other program that does not compress your picture futher will do too
     
      
      
